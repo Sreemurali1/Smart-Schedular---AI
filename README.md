@@ -185,5 +185,6 @@ To install and run **SmartSchedulerGPT** locally, follow these steps:
 
 ### **Video Demo**
 Watch the video demonstration of how SmartSchedulerGPT works:
+
 https://github.com/user-attachments/assets/ac544907-6275-4a50-a4bf-c0cbc60642a1
 
